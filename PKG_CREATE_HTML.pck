@@ -1,5 +1,5 @@
 CREATE OR REPLACE PACKAGE PKG_CREATE_HTML IS
-  -- Author  : NB181916
+  -- Author  : Nicholas Namacha
   -- Created : 8/19/2015 1:23:23 PM
   -- Purpose :
   -- Public type declarations
